@@ -5,12 +5,12 @@ A simple function for get the client ip on http request
 #Get started
 
 
-Install:
+#Install:
 
- npm install remote-ip
+    npm install remote-ip
 
 
-Usage:
+#Usage:
 
     var getIp = require('remote-ip');
     
