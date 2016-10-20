@@ -39,7 +39,6 @@ or on express
     var getIp = require('remote-ip');
     
     router.get('/',function(req,res,next){
-        var ip = getIp(req); //your client ip
         
         var ip = getIp(req); //your client ip
         console.log(ip);
