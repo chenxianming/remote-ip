@@ -44,3 +44,9 @@ or on express
         console.log(ip);
         
     });
+    
+    
+nginx proxy must set
+
+    proxy_set_header
+    
